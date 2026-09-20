@@ -44,7 +44,7 @@ The results are displayed through a simple Streamlit dashboard.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **Pandas**
@@ -83,7 +83,7 @@ RoomCheck/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -105,7 +105,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 Run:
 
@@ -160,7 +160,7 @@ Display Results
 
 ---
 
-## 📄 Required Excel Columns
+##  Required Excel Columns
 
 The uploaded Excel timetable must contain the following columns:
 
