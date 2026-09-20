@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+
+roomcheck.db
+
+.streamlit/secrets.toml
+
+.DS_Store
+
+.vscode/
+.idea/
